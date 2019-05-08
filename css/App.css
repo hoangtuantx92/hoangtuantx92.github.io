@@ -1,7 +1,7 @@
 .downArrow{
     position: fixed;
 	text-align: center;
-	bottom: -500%;
+	bottom: -10em;
 	left: 50%;
 }
 .bounce {
